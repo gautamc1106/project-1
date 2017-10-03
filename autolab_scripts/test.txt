@@ -1,0 +1,7 @@
+Jillian Sue and Gautam Chheda
+
+Select-based Echo Server Testing: 
+We first tested that the echo server provided worked to provide one connection. We then built on top of Beej's code so that it would facilitate multiple client connections leveraging the select-based server method. To test that the select-echo server worked properly, we opened multiple terminals and pinged the server. Finally, we tested our files with the checkpoint 1 grader provided. 
+
+HTTP Server Testing:
+While building our HTTP server, we hit our server with requests using curl commands. Additionally, we pinged the local host with our browser. 
